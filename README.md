@@ -1,3 +1,6 @@
 # hello-world
 
-I have never coded before and have no idea what I'm doing, but I'm here to learn more about #OpenAPS and I'm super excited! Yay! Lalalalala. I may drown in the interwebs, so please send help.
+Hello friends!
+I am here to work learn more about #OpenAPS and I don't know anything about computers.
+So help. This is a new adventure. But I'm so excited and can't wait to learn more (and maybe even learn a bit of code #OMG). 
+
